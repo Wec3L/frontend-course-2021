@@ -1,0 +1,27 @@
+.body {
+    background-color: gray;
+}
+h1 {
+    color: white;
+}
+#test {
+    color: white;
+}
+div > p {
+    color: red;
+}
+.text.text-2 {
+    color: green;
+}
+.h2 {
+    color: red;
+}
+.lorem {
+    color: aqua;
+}
+.ul {
+    color: blue;
+}
+.ol {
+    color: violet;
+}
